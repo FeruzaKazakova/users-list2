@@ -1,0 +1,9 @@
+.li{
+    border: 1px solid rgb(199, 192, 192);
+    width: 95%;
+    margin: 1rem;
+}
+.p{
+    font-weight: 600;
+    margin-left: 1rem;
+}

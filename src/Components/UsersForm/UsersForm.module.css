@@ -1,0 +1,32 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 45rem;
+    height: 14rem;
+    background-color: white;
+    border-radius: 14px;
+    padding: 0.7rem;
+}
+.input{
+    width: 40rem;
+    height: 2rem;
+}
+label{
+    margin-right: 35rem;
+    font-weight: 700;
+}
+.labell{
+    margin-right: 35.5rem;
+}
+button{
+    margin-right: 33rem;
+    background-color: rgb(98, 38, 98);
+    color: white;
+    border: 0px;
+    width: 7rem;
+    height: 2rem;
+    font-size: 1rem;
+    cursor: pointer;
+}
